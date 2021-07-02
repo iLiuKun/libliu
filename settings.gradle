@@ -1,0 +1,3 @@
+include ':libliu'
+include ':app'
+rootProject.name = "LibJCenter"
